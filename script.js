@@ -37,7 +37,7 @@ var catArray = [
 for(var i = 0; i < catArray.length; i++) {
     console.log(catArray[i].name);
     console.log(catArray[i].colour);
-    console.log(catArra[i].age);
+    console.log(catArray[i].age);
 }
 
 // question 9
